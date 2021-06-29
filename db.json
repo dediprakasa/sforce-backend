@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Delman",
+      "title": "Judul",
+      "content": "Sebuah balada"
+    },
+    {
+      "id": "2021-06-26T06:18:22.790Z",
+      "author": "Hana",
+      "title": "Korean Bank",
+      "content": "Long description"
+    },
+    {
+      "id": 1624688404300,
+      "author": "Next",
+      "title": "Korean Comp",
+      "content": "Long ggdescription"
+    }
+  ]
+}
